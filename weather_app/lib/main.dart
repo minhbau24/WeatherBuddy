@@ -7,6 +7,7 @@ void main() {
 
 const double lat = 21.0285;
 const double lon = 105.8542;
+// Tọa độ KV Hà Đông, chỉnh sửa lại tại đây.
 
 class MyApp extends StatelessWidget {
   @override
